@@ -169,7 +169,7 @@ The analysis involves the following steps:
 5. **Model Building:**
     * Choosing a model
 
-![Model selection](<Images/Screenshot (257).png>)
+![Model selection](<Images/Screenshot (247).png>)
 
    * Determine most important features
 
