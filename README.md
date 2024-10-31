@@ -136,24 +136,24 @@ The analysis involves the following steps:
 2. **Sales Analysis:**
     * Customer demographics
 
-![Customer Demographics](<Images/Screenshot (234).png>)
+    ![Customer Demographics](<Images/Screenshot (234).png>)
 
     * Service Usage and Preferences
 
-![Service usage](<Images/Screenshot (237).png>)
+    ![Service usage](<Images/Screenshot (237).png>)
 
     * Contract and billing
 
-![Contract and billing](<Images/Screenshot (240).png>)
+    ![Contract and billing](<Images/Screenshot (240).png>)
 
     * Customer segmentation
 
-![Customer segmentation](<Images/Screenshot (241).png>)
+    ![Customer segmentation](<Images/Screenshot (241).png>)
 
 3. **Analysis:**
     * Data distribution 
 
-![Data distribution](<Images/Screenshot (243).png>)
+    ![Data distribution](<Images/Screenshot (243).png>)
 
 4. **Data Preprocessing:**
     * Create new feature
@@ -164,25 +164,23 @@ The analysis involves the following steps:
     ```
     * One-Hot Encoding for categorical features
 
-![Hot encoding](<Images/Screenshot (245).png>)
+    ![Hot encoding](<Images/Screenshot (245).png>)
 
 5. **Model Building:**
     * Choosing a model
 
-![Model selection](<Images/Screenshot (247).png>)
+    ![Model selection](<Images/Screenshot (247).png>)
 
-   * Determine most important features
+    * Determine most important features
 
-![Important feature](<Images/Screenshot (253).png>)
+    ![Important feature](<Images/Screenshot (253).png>)
 
 **Expected Outcomes:**
 By the end of this analysis, we expect to:
 
-Understand the main factors driving customer churn.
-
-Develop accurate predictive models for customer churn.
-
-Provide actionable insights to reduce churn rates and enhance customer retention strategies.
+- Understand the main factors driving customer churn.
+- Develop accurate predictive models for customer churn.
+- Provide actionable insights to reduce churn rates and enhance customer retention strategies.
 
 **LIBRARIES AND VERSION**
 ---
