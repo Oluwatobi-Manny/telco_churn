@@ -175,7 +175,6 @@ The analysis involves the following steps:
 
 ![Important feature](<Images/Screenshot (253).png>)
 
-
 **Expected Outcomes:**
 By the end of this analysis, we expect to:
 
@@ -184,3 +183,13 @@ Understand the main factors driving customer churn.
 Develop accurate predictive models for customer churn.
 
 Provide actionable insights to reduce churn rates and enhance customer retention strategies.
+
+**LIBRARIES AND VERSION**
+---
+- numpy: 1.26.4
+- pandas: 2.2.2
+- matplotlib: 3.9.1.post1
+- seaborn: 0.13.2
+- sklearn: 1.4.2
+- scipy: 1.13.1
+- statsmodels: 0.14.2
